@@ -1,0 +1,63 @@
+
+body {
+    background-color: rgb(16, 65, 84);
+    font-family: 'Righteous', cursive;
+}
+
+.jumbotron {
+    background-image: url("../images/bgpattern.png");
+}
+
+.hero-text {
+    text-align: center;
+    text-shadow: 2px 2px violet;
+    color: white;
+    
+}
+
+.lead {
+    text-align: center;
+    text-shadow: 1px 1px black;
+    color: white;
+    font-size: 25px;
+
+}
+#timeremaining {
+    margin: auto ;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 1px 1px rgb(74, 28, 74);
+
+}
+#questionsbox {
+    margin: auto;
+    text-align: center;
+    color: whitesmoke;
+}
+
+#startbox {
+    margin: auto;
+    text-align: center;
+}
+
+.boxcontainer{
+    background-color: rgb(19, 92, 104);
+    padding: 2%;
+    margin: 25px;
+}
+
+.question {
+    font-size: 20px;
+    letter-spacing: 1px;
+    text-shadow: 1px 1px rgb(74, 28, 74);
+
+}
+
+.answers {
+    font-size: 16px;
+    letter-spacing: .5px
+}
+
+label {
+    padding: 1%;
+}
